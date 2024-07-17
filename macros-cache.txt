@@ -1,0 +1,74 @@
+VER 3 000000000100000B "保护" "135964"
+#showtooltip 保护之手
+/cast 保护之手
+END
+VER 3 0000000001000008 "制裁" "135963"
+#showtooltip 制裁之锤
+/cast 制裁之锤
+END
+VER 3 0000000001000005 "力量" "135906"
+#showtooltip 力量祝福
+/cast 力量祝福
+END
+VER 3 000000000100000E "十字军" "135891"
+#showtooltip 十字军打击
+/startattack
+/cast 十字军打击
+/cast 清算之手
+END
+VER 3 0000000001000009 "圣光" "135920"
+#showtooltip 圣光术
+/cast 圣光术
+END
+VER 3 0000000001000002 "圣光审判" "135959"
+#showtooltip 圣光审判
+/startattack
+/cast 圣光审判
+END
+VER 3 000000000100000C "圣疗" "135928"
+#showtooltip 圣疗术
+/cast 圣疗术
+END
+VER 3 000000000100000A "圣闪" "135907"
+#showtooltip 圣光闪现
+/cast 圣光闪现
+END
+VER 3 0000000001000007 "奉献" "135926"
+#showtooltip 奉献
+/cast 奉献
+END
+VER 3 0000000001000004 "愤怒" "132326"
+#showtooltip 愤怒之锤
+/startattack
+/cast 愤怒之锤
+/cast 清算之手
+END
+VER 3 000000000100000D "救赎" "135955"
+#showtooltip 救赎
+/cast 救赎
+END
+VER 3 0000000001000001 "智慧" "236255"
+#showtooltip 智慧审判
+/startattack
+/cast 智慧审判
+END
+VER 3 0000000001000006 "智慧" "135970"
+#showtooltip 智慧祝福
+/cast 智慧祝福
+END
+VER 3 000000000100000F "神圣愤怒" "135902"
+#showtooltip 神圣愤怒
+/cast 神圣愤怒
+END
+VER 3 0000000001000010 "神圣风暴" "236250"
+#showtooltip 神圣风暴
+/startattack
+/cast 神圣风暴
+/cast 清算之手
+END
+VER 3 0000000001000003 "驱邪" "135903"
+#showtooltip 驱邪术
+/startattack
+/cast 驱邪术
+/cast 清算之手
+END
